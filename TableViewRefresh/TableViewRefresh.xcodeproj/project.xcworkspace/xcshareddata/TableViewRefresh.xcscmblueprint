@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FA14D3E9A6280C8D51FA2D6F23599EE66F04526B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FA14D3E9A6280C8D51FA2D6F23599EE66F04526B" : 9223372036854775807,
+    "C63917DA9D7EE8C83A6117E7AFD71E812E7F5CC8" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "07EDD3D5-8B72-49F5-A537-6B94E0380BF0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FA14D3E9A6280C8D51FA2D6F23599EE66F04526B" : "TableViewRelated\/",
+    "C63917DA9D7EE8C83A6117E7AFD71E812E7F5CC8" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TableViewRefresh",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TableViewRefresh\/TableViewRefresh.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:talkfiled\/resources.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C63917DA9D7EE8C83A6117E7AFD71E812E7F5CC8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:talkfiled\/TableViewRelated.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FA14D3E9A6280C8D51FA2D6F23599EE66F04526B"
+    }
+  ]
+}
